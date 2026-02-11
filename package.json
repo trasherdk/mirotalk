@@ -44,7 +44,7 @@
         "@mattermost/client": "10.8.0",
         "@ngrok/ngrok": "1.5.1",
         "@sentry/node": "^9.41.0",
-        "axios": "^1.11.0",
+        "axios": "^1.13.5",
         "chokidar": "^4.0.3",
         "colors": "^1.4.0",
         "compression": "^1.8.1",
